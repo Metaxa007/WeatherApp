@@ -22,6 +22,7 @@ class ViewController: UIViewController, UISearchBarDelegate {
     var imageURL: String!
     var nameCity: String!
     
+    
     var exists: Bool = true
     
 
